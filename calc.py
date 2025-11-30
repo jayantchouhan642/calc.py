@@ -1,4 +1,5 @@
 # calc.py
+# Python gui based calculator
 import tkinter as tk 
 win = tk.Tk()
 win.title("Python Calculator")
